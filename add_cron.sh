@@ -10,7 +10,7 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 VENV_PATH="$SCRIPT_DIR/venv"
 
 # 定义Python脚本路径
-PYTHON_SCRIPT_PATH="$SCRIPT_DIR/script.py"
+PYTHON_SCRIPT_PATH="$SCRIPT_DIR/task.py"
 
 # 定义requirements.txt路径
 REQUIREMENTS_PATH="$SCRIPT_DIR/requirements.txt"
